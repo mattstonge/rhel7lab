@@ -1,4 +1,4 @@
-# rhel7lab
+# Summit 2017 - rhel7lab
 RHEL7 Summit Lab 
 Written By: Christoph Doerbeck, Matt St. Onge & Eddie Chen
 Version 1.2 May 2nd 2017
